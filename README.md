@@ -67,7 +67,7 @@ I am a Full Stack Developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
