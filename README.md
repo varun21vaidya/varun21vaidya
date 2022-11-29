@@ -76,5 +76,5 @@ I am a Full Stack Developer from India.
 ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varun21vaidya)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
