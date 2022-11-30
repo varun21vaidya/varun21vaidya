@@ -72,5 +72,5 @@
 
 [![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ![Snake](https://raw.githubusercontent.com/varun21vaidya/varun21vaidya//github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/eagrundy/varun21vaidya/blob/output/github-contribution-grid-snake.svg)
 </div>
