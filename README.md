@@ -1,14 +1,10 @@
-
-
-
-<div align="center">
-
+<div>
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 </div>
 
-<div id="header" align="center">
+<div id="header">
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,16 +24,11 @@
   I'm <a href="https://www.github.com/varun21vaidya">Varun Vaidya</a>
 </h1>
 
-
+## :man_technologist: About Me :
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Full+Stack+Developer+From+India+;Self+Taught+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
-
-<div align="center">
-
-
-### :man_technologist: About Me :
-
-I am a Full Stack Developer from India.
-
+  
 <!--
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -53,20 +44,23 @@ I am a Full Stack Developer from India.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-grren?style=for-the-badge&logo=Node.js&logoColor=white)
+![express](https://img.shields.io/badge/-express-white?style=for-the-badge&logo=express&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=green)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=mysql&logoColor=black)
+![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
 
 
 ---
@@ -77,4 +71,6 @@ I am a Full Stack Developer from India.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ![Snake](https://raw.githubusercontent.com/varun21vaidya/varun21vaidya//github-contribution-grid-snake.svg) -->
 </div>
