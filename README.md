@@ -77,7 +77,7 @@
   
 - **Email**: varunvaidya2107@gmail.com
   
-- **Call**: <a href="tel:+917517904162">7517904162</a> 
+- **Call**: +91 7517904162
 
 ### Connect Me on
 <div id="header">
