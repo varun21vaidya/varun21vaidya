@@ -1,23 +1,26 @@
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm <a href="https://www.github.com/varun21vaidya">Varun Vaidya</a>
 </h1>
 
-<div>
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Full+Stack+Developer+From+India+;Self+Taught+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 
-<div>
+<div align="center">
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ 
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=varun21vaidya&style=flat-square&color=blue" alt=""/>
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=varun21vaidya&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -56,8 +59,10 @@
 
 ### :fire: My Stats :
 
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varun21vaidya)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=varun21vaidya&show_icons=true&theme=radical" >
+<img width="55%" src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
+<p/>    
 
 [![Varun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
