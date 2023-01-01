@@ -60,8 +60,8 @@
 ### :fire: My Stats :
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=varun21vaidya&show_icons=true&theme=radical" >
-<img width="55%" src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=varun21vaidya&show_icons=true&theme=chartreuse-dark" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
 <p/>    
 
 [![Varun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -75,9 +75,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Reach me at" alt="Typing SVG" />
 </div>
   
-- Email: varunvaidya2107@gmail.com
+- **Email**: varunvaidya2107@gmail.com
   
-- Call: +91 7517904162
+- **Call**: <a href="tel:+917517904162">7517904162</a> 
 
 ### Connect Me on
 <div id="header">
