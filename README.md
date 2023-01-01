@@ -26,9 +26,9 @@
 
 - 🔭 Working as a Software Engineer 👨‍💻 and contributing to frontend and backend with MEAN Stack for building web applications.
 
-- 🌱 Developing Problem Solving Skills and Advanced <a href="https://github.com/varun21vaidya/DS-Algo">DSA<>.
+- 🌱 Developing Problem Solving Skills 🚀 and Advanced <a href="https://github.com/varun21vaidya/DS-Algo">DSA</a>.
   
-- 👯 Looking to collaborate on all my <a href="https://github.com/varun21vaidya/Projects">Projects<a>
+- 👯 Looking to collaborate 🔥 on all my <a href="https://github.com/varun21vaidya/Projects">Projects</a>.
 
 ---
 
