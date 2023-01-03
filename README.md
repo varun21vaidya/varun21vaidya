@@ -79,8 +79,13 @@
 <div id="header">
   <div id="badges">
   <a href="https://www.linkedin.com/in/varunvvaidya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="https://leetcode.com/varun21vaidya/">
+    <img src="https://img.shields.io/badge/-Leetcode%20-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  
   <a href="https://twitter.com/Varun21vaidya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
