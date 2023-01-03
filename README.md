@@ -21,20 +21,6 @@
   
 </div>
 
-
----
-
-
-## :man_technologist: About Me :
-
-- 🔭 Working as a Software Engineer 👨‍💻 and contributing to frontend and backend with MEAN Stack for building web applications.
-
-- 🌱 Developing Problem Solving Skills 🚀 and Advanced <a href="https://github.com/varun21vaidya/DS-Algo">DSA</a>.
-  
-- 👯 Looking to collaborate 🔥 on all my <a href="https://github.com/varun21vaidya/Projects">Projects</a>.
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
   
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -52,6 +38,16 @@
 ![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
 
+ ---
+
+
+## :man_technologist: About Me :
+
+- 🔭 Working as a Software Engineer 👨‍💻 and contributing to frontend and backend with MEAN Stack for building web applications.
+
+- 🌱 Developing Problem Solving Skills 🚀 and Advanced <a href="https://github.com/varun21vaidya/DS-Algo">DSA</a>.
+  
+- 👯 Looking to collaborate 🔥 on all my <a href="https://github.com/varun21vaidya/Projects">Projects</a>.
 
 
 
