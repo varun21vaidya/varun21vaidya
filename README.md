@@ -89,4 +89,8 @@
   <a href="https://twitter.com/Varun21vaidya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    
+  <a href="https://twitter.com/Varun21vaidya">
+    <img src="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+  </a>
 </div>
