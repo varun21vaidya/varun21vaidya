@@ -49,7 +49,7 @@
   
 - 👯 Looking to collaborate 🔥 on all my <a href="https://github.com/varun21vaidya/Projects">Projects</a>.
 
-- 🌟 Checkout My <a href="https://varun-portfolio.vercel.app/"> Portfolio </a>.
+- 🌟 Checkout My <a href="https://varun-portfolio.vercel.app/" target="_blank"> Portfolio </a>.
 
 
 
