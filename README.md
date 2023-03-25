@@ -49,6 +49,8 @@
   
 - 👯 Looking to collaborate 🔥 on all my <a href="https://github.com/varun21vaidya/Projects">Projects</a>.
 
+- 🌟 Checkout My <a href="https://varun-portfolio.vercel.app/"> Portfolio </a>.
+
 
 
 ---
@@ -73,7 +75,7 @@
   
 - **Email**: varunvaidya2107@gmail.com
   
-- **Call**: +91 7517904162
+- **Call**: +91 9028535008
 
 ### Connect Me on
 <div id="header">
