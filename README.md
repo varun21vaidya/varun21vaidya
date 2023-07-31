@@ -55,11 +55,18 @@
 
 ---
 
+### GitHub Trophy : 
+<p align="center">
+<a href="https://github.com/varun21vaidya"><img src="https://github-profile-trophy.vercel.app/?username=varun21vaidya&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=dracula&no-frame=true" alt="Varun Trophy"/></a>
+</p>
+
+---
+
 ### :fire: My Stats :
 
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=varun21vaidya&show_icons=true&theme=chartreuse-dark" >
-<img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
 <a href="https://github.com/varun21vaidya/Projects" title="Projects">
 <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=varun21vaidya&repo=projects&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 <p/>    
