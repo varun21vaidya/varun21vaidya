@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="left">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm <a href="https://www.github.com/varun21vaidya">Varun Vaidya</a>
 </h1>
 
-<div align="center">
+<div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Full+Stack+Developer+From+India+;Self+Taught+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -43,7 +43,7 @@
 
 ## :man_technologist: About Me :
 
-- 🔭 Working as a Software Engineer 👨‍💻 and contributing to frontend and backend with MEAN Stack for building web applications.
+- 🔭 Working as a Software Engineer 👨‍💻 and contributing to build full stack web applications.
 
 - 🌱 Developing Problem Solving Skills 🚀 and Advanced <a href="https://github.com/varun21vaidya/DS-Algo">DSA</a>.
   
@@ -51,7 +51,7 @@
 
 - 🌟 Checkout My <a href="https://varun-portfolio.vercel.app/" target="_blank"> Portfolio </a>.
 
-
+- ✍️ Read my Articles on <a href=https://dev.to/varun21vaidya>dev.to</a>
 
 ---
 
@@ -60,12 +60,12 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=varun21vaidya&show_icons=true&theme=chartreuse-dark" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=varun21vaidya&theme=dark&background=000000">
+<a href="https://github.com/varun21vaidya/Projects" title="Projects">
+<img width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=varun21vaidya&repo=projects&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 <p/>    
 
-[![Varun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varun21vaidya&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/varun21vaidya/varun21vaidya/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 ---
   
